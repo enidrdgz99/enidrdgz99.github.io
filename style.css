@@ -1,6 +1,7 @@
 /* Barra de navegacion */
 
 .navbar {
+  font-family: 'Baskervville', serif;
   padding: 2rem;
   background-color: #d6ccc2;
 }
@@ -95,6 +96,7 @@ h1 {
 
 
 .sobre-mi .contenedor {
+  font-family: 'Baskervville', serif;
   max-width: 600px;
   text-align: center;
 }
@@ -121,6 +123,7 @@ h1 {
   }
 
 .experiencia .columna:hover {
+  font-family: 'Baskervville', serif;
   color: white;
   background-color: #bb9457;
 }
@@ -134,12 +137,14 @@ h1 {
 }
 
 .experiencia-titulo {
+  font-family: 'Caveat', cursive;
   font-size: 25px;
   font-weight: bold;
   margin: 10px 0;
 }
 
 .badges-contenedor {
+  font-family: 'Baskervville', serif;
   font-size: 20px;
   font-weight: bold;
   margin: 10px 0;
@@ -152,10 +157,13 @@ h1 {
 /* Proyectos */
 
 .proyectos-recientes {
+  text-align: center;
+  font-family: 'Quicksand', sans-serif;
   padding: 40px;
 }
 
 .proyectos-recientes img {
+  text-align: center;
   height: 100%;
   width: 100%;
   padding: 10px;
@@ -165,6 +173,7 @@ h1 {
 }
 
 .proyectos-contenedor {
+  font-family: 'Quicksand', sans-serif;
   padding-top: 60px;
   margin-bottom: 40px;
 }
@@ -211,10 +220,12 @@ h1 {
 /* Testimonios */
 
 .testimonios {
+  font-family: 'Reenie Beanie', cursive;
   padding: 40px 40px 80px 40px;
 }
 
 .testimonios .carousel {
+  font-family: 'Reenie Beanie', cursive;
   max-width: 800px;
 }
 
@@ -223,6 +234,7 @@ h1 {
 }
 
 .carousel-item .container {
+  font-family: 'Reenie Beanie', cursive;
   width: 100%;
   height: 100%;
   display: flex;
@@ -238,10 +250,11 @@ h1 {
 }
 
 .testimonio-texto {
+  font-family: 'Reenie Beanie', cursive;
   max-width: 70%;
   font-size: 20px;
   text-align: center;
-  font-family: 'Share Tech Mono', monospace;
+
 }
 
 .testimonio-info {
@@ -254,17 +267,19 @@ h1 {
 }
 
 .testimonio-footer .cliente {
+  color: #283618;
   font-size: 1.2rem;
 }
 
 .testimonio-info .cargo {
   font-size: 0.9rem;
-  color: #656060;
+  color: #e63946;
 }
 
 /* Contacto */
 
 .contacto .container {
+  font-family: 'Quicksand', sans-serif;
   max-width: 1100px;
   min-height: 200px;
   padding: 20px;
@@ -272,7 +287,7 @@ h1 {
 
 .contacto .rectangulo {
   margin-top: -5rem;
-  background-color: rgb(13, 110, 253);
+  background-color: #fcbf49 ;
   border-radius: 10px;
   box-shadow: 0px 1px 4px 1px white;
 }
@@ -284,6 +299,7 @@ h1 {
 }
 
 .contacto .descripcion {
+  font-family: 'Quicksand', sans-serif;
   color: white;
   font-size: 1.2rem;
 }
